@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt install python-systemd python3-systemd bridge-utils
+sudo apt install python-systemd python3-systemd bridge-utils python-dbus
 sudo cp bt-pan /usr/local/sbin/
 sudo cp pan /usr/local/sbin/
 sudo cp BT-AP /usr/local/sbin/
